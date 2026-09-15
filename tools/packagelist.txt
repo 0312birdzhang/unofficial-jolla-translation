@@ -1,19 +1,5 @@
 amber-web-authorization/amber_web_authorization.ts
-ambience-aloe/ambience-aloe.ts
-ambience-angrybirds/ambience-angrybirds.ts
-ambience-black/ambience-black.ts
-ambience-dna/ambience-dna.ts
-ambience-lime/ambience-lime.ts
-ambience-pink/ambience-pink.ts
-ambience-poppy-red/ambience-poppy-red.ts
-ambience-sailfish3/ambience-cloudberry.ts
-ambience-sailfish3/ambience-sailfish3.ts
-ambience-sailfish3/ambience-silent3.ts
-ambience-snow-white/ambience-snow-white.ts
-ambience-stella/ambience-stella.ts
-ambience-the-first-one/ambience-the-first-one.ts
 apkd8/apkd.ts
-as-daemon/as-daemon.ts
 buteo-sync-plugins-social/lipstick-jolla-home-twitter-notif.ts
 commhistory-daemon/commhistoryd.ts
 contactsd/contactsd.ts
@@ -31,7 +17,6 @@ jolla-calendar/sailfish-components-calendar-qt5.ts
 jolla-camera/jolla-camera.ts
 jolla-clock/clock.ts
 jolla-contacts/contacts.ts
-jolla-devicelock/devicelock.ts
 jolla-email/jolla-email.ts
 jolla-gallery-ambience/gallery-ambience.ts
 jolla-gallery-extensions/gallery-extensions.ts
@@ -54,7 +39,6 @@ jolla-signon-ui/jolla-signon-ui.ts
 jolla-startupwizard/startupwizard.ts
 jolla-vault/sailfishbackup.ts
 jolla-vault/settings-backup.ts
-libcontacts-qt5/libcontacts.ts
 libsocialcache/socialcache.ts
 libjollasignonuiservice-qt5/libjollasignonuiservice_qt5.ts
 lipstick-jolla-home-qt5/lipstick-jolla-home.ts
@@ -83,7 +67,6 @@ sailfish-components-gallery-qt5/sailfish_components_gallery_qt5.ts
 sailfish-components-pickers-qt5/sailfish_components_pickers_qt5.ts
 sailfish-components-telephony-qt5/sailfish_components_telephony.ts
 sailfish-components-timezone-qt5/sailfish_components_timezone_qt5.ts
-sailfish-components-weather-qt5/sailfish_components_weather_qt5.ts
 sailfish-components-webview-qt5/sailfish_components_webview_controls_qt5.ts
 sailfish-components-webview-qt5/sailfish_components_webview_pickers_qt5.ts
 sailfish-components-webview-qt5/sailfish_components_webview_popups_qt5.ts
@@ -133,3 +116,12 @@ simkit/simkit.ts
 store-client/jolla-store.ts
 transferengine-plugins/sailfish_transferengine_plugins.ts
 voicecall-ui-jolla/voicecall.ts
+apkd-plugin-mobiledata-qofono/settings-apkd-plugin-mobiledata-qofono.ts
+appsupport-bridge-bt/appsupport-bridge-bt.ts
+csd/csd.ts
+qr-filter-qml-plugin/qr-filter-qml-plugin-barcode.ts
+sailfish-account-mastodon/sailfish-account-mastodon.ts
+sailfish-nfcshare/nfcshare.ts
+sailfish-privacyswitch/sailfish-privacy_switch.ts
+store-categories/store-categories.po
+terminology/pootle-terminology.po
