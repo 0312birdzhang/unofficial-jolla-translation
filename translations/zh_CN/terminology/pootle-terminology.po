@@ -1,0 +1,2464 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-06-24 09:56+0300\n"
+"PO-Revision-Date: 2020-08-11 14:01+0300\n"
+"Last-Translator: Bird <0312birdzhang@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.5.1-rc1\n"
+"X-POOTLE-MTIME: 1597147306.000000\n"
+
+msgid "Ambience"
+msgstr "氛围"
+
+#. clear away items
+msgid "Clear"
+msgstr "清除"
+
+msgid "3G"
+msgstr "3G"
+
+msgid "Accept"
+msgstr "接受"
+
+msgid "Account"
+msgstr "帐户"
+
+#. The correct format is "flight mode".
+msgid "Airplane mode"
+msgstr "飞行模式"
+
+#. This term is a noun.
+msgid "Alarm"
+msgstr "闹钟"
+
+msgid "Album"
+msgstr "专辑"
+
+#. The correct format is "ambience".
+msgid "Ambiance"
+msgstr "氛围"
+
+msgid "App"
+msgstr "应用程序"
+
+#. The correct format is "app".
+msgid "Application"
+msgstr "应用程序"
+
+msgid "Attachment"
+msgstr "附件"
+
+msgid "Authentication"
+msgstr "身份验证"
+
+msgid "Automatic"
+msgstr "自动"
+
+msgid "B"
+msgstr "B"
+
+#. This term is a verb.
+msgid "Back up"
+msgstr "备份"
+
+#. This term is a noun.
+msgid "Backup"
+msgstr "备份"
+
+msgid "Bluetooth"
+msgstr "蓝牙"
+
+#. This term can be a noun (browser) or app name (Browser).
+msgid "Browser"
+msgstr "浏览器 (名词), 浏览器 (应用程序名称)"
+
+#. This term can be a noun (calendar) or app name (Calendar).
+msgid "Calendar"
+msgstr "日历 (名词), 日历 (应用程序名称)"
+
+#. This term can be a noun or a verb.
+msgid "Call"
+msgstr "通话 (名词), 呼叫 (动词)"
+
+#. This term can be a noun (camera) or an app name (Camera).
+msgid "Camera"
+msgstr "相机 (noun), 相机 (app name)"
+
+msgid "Cancel"
+msgstr "取消"
+
+#. This term can be a noun or a verb.
+msgid "Chat"
+msgstr "聊天 (noun), 聊天(verb)"
+
+#. This term is an app name.
+msgid "Clock"
+msgstr "时钟"
+
+msgid "Connect"
+msgstr "连接"
+
+msgid "Connection"
+msgstr "连接"
+
+msgid "Continue"
+msgstr "继续"
+
+#. Application covers, small representations of open apps displayed on the Home.
+msgid "Cover"
+msgstr "封面"
+
+msgid "Decline"
+msgstr "拒接"
+
+#. This term is a noun.
+msgid "Default"
+msgstr "默认值"
+
+msgid "Delete"
+msgstr "删除"
+
+msgid "Device"
+msgstr "设备"
+
+msgid "Device nickname"
+msgstr "设备别名"
+
+msgid "Disconnect"
+msgstr "断开"
+
+msgid "DNS"
+msgstr "DNS"
+
+#. This term is an app name.
+msgid "Documents"
+msgstr "文档"
+
+#. This term can be a noun or a verb.
+msgid "Download"
+msgstr "下载 (noun), 下载 (verb)"
+
+#. This term is a verb.
+msgid "Edit"
+msgstr "编辑"
+
+#. This term can be a noun (email) or an app name (Email).
+msgid "Email"
+msgstr "电子邮件(noun), 电子邮件((app name)"
+
+msgid "Email address"
+msgstr "电子邮件地址"
+
+#. This term is a verb.
+msgid "Enter"
+msgstr "输入"
+
+msgid "Event"
+msgstr "事件"
+
+msgid "Facebook"
+msgstr "Facebook"
+
+#. This term is a noun.
+msgid "Favourite"
+msgstr "收藏夹"
+
+msgid "Feedback"
+msgstr "反馈"
+
+#. This term is an app name.
+msgid "Feeds"
+msgstr "源"
+
+#. This term is a noun.
+msgid "File"
+msgstr "文件"
+
+#. The correct format is "filename".
+msgid "File name"
+msgstr "文件名"
+
+msgid "Filename"
+msgstr "文件名"
+
+msgid "Flight mode"
+msgstr "飞行模式"
+
+msgid "Fluorescent"
+msgstr "荧光灯"
+
+msgid "Folder"
+msgstr "文件夹"
+
+msgid "Forget"
+msgstr "忘记"
+
+#. This term is a verb.
+msgid "Forward"
+msgstr "转发"
+
+msgid "FTP"
+msgstr "FTP"
+
+msgid "Full screen"
+msgstr "全屏"
+
+# category: improvement
+#. This term is an app name.
+msgid "Gallery"
+msgstr "图库"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "GSM"
+msgstr "GSM"
+
+#. Name for the phone's home view.
+msgid "Home"
+msgstr "主页(noun), 住宅(noun)"
+
+#. Translate like "Home".
+msgid "Home screen"
+msgstr "主屏幕"
+
+msgid "HTTP"
+msgstr "HTTP"
+
+msgid "HTTPS"
+msgstr "HTTPS"
+
+msgid "Image"
+msgstr "图像"
+
+msgid "Inbox"
+msgstr "收件箱"
+
+#. This term is an adjective.
+msgid "Incandescent"
+msgstr "炽热的"
+
+#. This is the short form of "incoming mail server".
+msgid "Incoming server"
+msgstr "收件服务器"
+
+#. The correct format is "Internet".
+msgid "Internet"
+msgstr "互联网"
+
+msgid "Internet call"
+msgstr "互联网电话"
+
+#. The correct format is "kB".
+msgid "KB"
+msgstr "kB"
+
+#. This term is an app name.
+msgid "Lock Screen"
+msgstr "锁屏"
+
+msgid "Loudspeaker"
+msgstr "扬声器"
+
+#. The correct format is "email".
+msgid "Mail"
+msgstr "电子邮件"
+
+#. This term is an app name.
+msgid "Maps"
+msgstr "地图"
+
+#. This term is a verb.
+msgid "Mark"
+msgstr "标记"
+
+msgid "Mass storage"
+msgstr "大容量存储"
+
+msgid "MB"
+msgstr "MB"
+
+#. This term is an app name.
+msgid "Media"
+msgstr "媒体"
+
+#. This term is an app name.
+msgid "Messaging"
+msgstr "消息"
+
+msgid "Metadata"
+msgstr "元数据"
+
+msgid "MMS"
+msgstr "MMS"
+
+#. This term is a verb.
+msgid "Move"
+msgstr "移动"
+
+#. This term is a verb.
+msgid "Mute"
+msgstr "静音"
+
+#. This term is a noun.
+msgid "Nickname"
+msgstr "昵称 (noun),别名 (noun)"
+
+#. This term is a noun.
+msgid "Note"
+msgstr "备注"
+
+#. This term is an app name.
+msgid "Notes"
+msgstr "备注"
+
+msgid "Notification"
+msgstr "通知"
+
+#. This term is an adjective.
+msgid "Offline"
+msgstr "离线(adjective), 不在线(adjective),"
+
+msgid "OK"
+msgstr "确定"
+
+msgid "On hold"
+msgstr "保持"
+
+#. This term is a verb.
+msgid "Open"
+msgstr "打开"
+
+msgid "Original settings"
+msgstr "原始设置"
+
+#. This is the short form of "outgoing mail server".
+msgid "Outgoing server"
+msgstr "发件服务器"
+
+#. This term is a verb.
+msgid "Pair"
+msgstr "配对"
+
+msgid "Paired device"
+msgstr "已配对设备"
+
+#. One of the movement gestures used.
+msgid "Panning"
+msgstr "平移"
+
+msgid "Passcode"
+msgstr "密码"
+
+msgid "Passphrase"
+msgstr "密码"
+
+msgid "Password"
+msgstr "密码"
+
+#. This term can be a noun (people) or an app name (People).
+msgid "People"
+msgstr "联系人 (noun), 联系人 (app name)"
+
+#. This term can be a noun (phone) or an app name (Phone).
+msgid "Phone"
+msgstr "电话(noun), 电话(app name)"
+
+msgid "Phone number"
+msgstr "电话号码"
+
+msgid "Photo"
+msgstr "照片"
+
+msgid "PIN code"
+msgstr "PIN 码"
+
+#. This term is a verb.
+msgid "Play"
+msgstr "播放"
+
+msgid "Play queue"
+msgstr "播放队列"
+
+#. The correct format is "play queue".
+msgid "Playing queue"
+msgstr "播放队列"
+
+msgid "Playlist"
+msgstr "播放列表"
+
+msgid "Postal code"
+msgstr "邮编"
+
+msgid "Power saving mode"
+msgstr "省电模式"
+
+#. This term is a noun.
+msgid "Preview"
+msgstr "预览"
+
+#. This term is a noun.
+msgid "Profile"
+msgstr "配置文件(noun), 模式(noun)"
+
+#. This term is an adjective.
+msgid "Read"
+msgstr "已读"
+
+msgid "Recipient"
+msgstr "收件人"
+
+#. Translate like "decline".
+msgid "Reject"
+msgstr "拒接"
+
+msgid "Remove"
+msgstr "删除"
+
+#. This term is a verb.
+msgid "Repeat"
+msgstr "重复"
+
+#. This term is a verb.
+msgid "Reply"
+msgstr "回复"
+
+msgid "Ringtone"
+msgstr "铃声"
+
+msgid "Roaming"
+msgstr "漫游"
+
+msgid "Save"
+msgstr "保存"
+
+#. This term can be a noun or a verb.
+msgid "Search"
+msgstr "搜索(noun), 搜索(verb)"
+
+#. This term is a verb.
+msgid "Select"
+msgstr "选择"
+
+#. This term is a verb.
+msgid "Send"
+msgstr "发送"
+
+#. A pulley is a pull-and-release menu used on the Jolla UI screens.
+msgid "Pulley"
+msgstr "拖放"
+
+msgid "Settings"
+msgstr "设置(noun)，设置(app name)"
+
+#. This term is a verb.
+msgid "Share"
+msgstr "共享"
+
+#. This term is a verb.
+msgid "Show"
+msgstr "显示"
+
+#. This term is a verb.
+msgid "Silence"
+msgstr "无声"
+
+msgid "SIM card"
+msgstr "SIM 卡"
+
+msgid "SMS"
+msgstr "短信"
+
+msgid "Snooze"
+msgstr "推迟"
+
+msgid "Song"
+msgstr "歌曲"
+
+#. This term is a noun.
+msgid "Sound"
+msgstr "声音"
+
+#. Translate like "loudspeaker".
+msgid "Speaker"
+msgstr "扬声器"
+
+msgid "SSID"
+msgstr "SSID"
+
+#. This term is a verb.
+msgid "Start"
+msgstr "开始"
+
+msgid "Status"
+msgstr "状态"
+
+#. This term is a noun.
+msgid "Subject"
+msgstr "主题"
+
+#. This term can be a noun or a verb.
+msgid "Sync"
+msgstr "同步 (noun), 同步(verb)"
+
+#. This term is a verb.
+msgid "Tap"
+msgstr "点击"
+
+msgid "TB"
+msgstr "TB"
+
+#. This term is a noun.
+msgid "Transfer"
+msgstr "传输"
+
+#. This term is an app name.
+msgid "Tutorial"
+msgstr "教程"
+
+msgid "Unplug"
+msgstr "拔出"
+
+#. This term is an adjective.
+msgid "Unread"
+msgstr "未读"
+
+#. This term can be a noun or a verb.
+msgid "Update"
+msgstr "更新(noun), 更新(verb)"
+
+#. This term is a verb.
+msgid "Upload"
+msgstr "上传"
+
+msgid "USB"
+msgstr "USB"
+
+msgid "USB cable"
+msgstr "USB 电缆"
+
+msgid "Username"
+msgstr "用户名"
+
+#. This term is a noun.
+msgid "Video"
+msgstr "视频"
+
+#. This term is a verb.
+msgid "View"
+msgstr "查看"
+
+msgid "WAP"
+msgstr "WAP"
+
+msgid "Website"
+msgstr "网站"
+
+msgid "WEP"
+msgstr "WEP"
+
+msgid "White balance"
+msgstr "白平衡"
+
+msgid "WLAN"
+msgstr "WLAN"
+
+msgid "WPS"
+msgstr "WPS"
+
+msgid "YouTube"
+msgstr "YouTube"
+
+msgid "ZIP code"
+msgstr "邮编"
+
+msgid "PUK code"
+msgstr "PUK 代码"
+
+msgid "Unlock code"
+msgstr "解锁代码"
+
+msgid "Ambience"
+msgstr "氛围"
+
+#. clear away items
+msgid "Clear"
+msgstr "清除"
+
+msgid "3G"
+msgstr "3G"
+
+msgid "Accept"
+msgstr "接受"
+
+msgid "Account"
+msgstr "帐户"
+
+#. The correct format is "flight mode".
+msgid "Airplane mode"
+msgstr "飞行模式"
+
+#. This term is a noun.
+msgid "Alarm"
+msgstr "闹钟"
+
+msgid "Album"
+msgstr "专辑"
+
+#. The correct format is "ambience".
+msgid "Ambiance"
+msgstr "氛围"
+
+msgid "App"
+msgstr "应用程序"
+
+#. The correct format is "app".
+msgid "Application"
+msgstr "应用程序"
+
+msgid "Attachment"
+msgstr "附件"
+
+msgid "Authentication"
+msgstr "身份验证"
+
+msgid "Automatic"
+msgstr "自动"
+
+msgid "B"
+msgstr "B"
+
+#. This term is a verb.
+msgid "Back up"
+msgstr "备份"
+
+#. This term is a noun.
+msgid "Backup"
+msgstr "备份"
+
+msgid "Bluetooth"
+msgstr "蓝牙"
+
+#. This term can be a noun (browser) or app name (Browser).
+msgid "Browser"
+msgstr "浏览器 (名词), 浏览器 (应用程序名称)"
+
+#. This term can be a noun (calendar) or app name (Calendar).
+msgid "Calendar"
+msgstr "日历 (名词), 日历 (应用程序名称)"
+
+#. This term can be a noun or a verb.
+msgid "Call"
+msgstr "通话 (名词), 呼叫 (动词)"
+
+#. This term can be a noun (camera) or an app name (Camera).
+msgid "Camera"
+msgstr "相机 (noun), 相机 (app name)"
+
+msgid "Cancel"
+msgstr "取消"
+
+#. This term can be a noun or a verb.
+msgid "Chat"
+msgstr "聊天 (noun), 聊天(verb)"
+
+#. This term is an app name.
+msgid "Clock"
+msgstr "时钟"
+
+msgid "Connect"
+msgstr "连接"
+
+msgid "Connection"
+msgstr "连接"
+
+msgid "Continue"
+msgstr "继续"
+
+#. Application covers, small representations of open apps displayed on the Home.
+msgid "Cover"
+msgstr "封面"
+
+msgid "Decline"
+msgstr "拒接"
+
+#. This term is a noun.
+msgid "Default"
+msgstr "默认值"
+
+msgid "Delete"
+msgstr "删除"
+
+msgid "Device"
+msgstr "设备"
+
+msgid "Device nickname"
+msgstr "设备别名"
+
+msgid "Disconnect"
+msgstr "断开"
+
+msgid "DNS"
+msgstr "DNS"
+
+#. This term is an app name.
+msgid "Documents"
+msgstr "文档"
+
+#. This term can be a noun or a verb.
+msgid "Download"
+msgstr "下载 (noun), 下载 (verb)"
+
+#. This term is a verb.
+msgid "Edit"
+msgstr "编辑"
+
+#. This term can be a noun (email) or an app name (Email).
+msgid "Email"
+msgstr "电子邮件(noun), 电子邮件((app name)"
+
+msgid "Email address"
+msgstr "电子邮件地址"
+
+#. This term is a verb.
+msgid "Enter"
+msgstr "输入"
+
+msgid "Event"
+msgstr "事件"
+
+msgid "Facebook"
+msgstr "Facebook"
+
+#. This term is a noun.
+msgid "Favourite"
+msgstr "收藏夹"
+
+msgid "Feedback"
+msgstr "反馈"
+
+#. This term is an app name.
+msgid "Feeds"
+msgstr "源"
+
+#. This term is a noun.
+msgid "File"
+msgstr "文件"
+
+#. The correct format is "filename".
+msgid "File name"
+msgstr "文件名"
+
+msgid "Filename"
+msgstr "文件名"
+
+msgid "Flight mode"
+msgstr "飞行模式"
+
+msgid "Fluorescent"
+msgstr "荧光灯"
+
+msgid "Folder"
+msgstr "文件夹"
+
+msgid "Forget"
+msgstr "忘记"
+
+#. This term is a verb.
+msgid "Forward"
+msgstr "转发"
+
+msgid "FTP"
+msgstr "FTP"
+
+msgid "Full screen"
+msgstr "全屏"
+
+# category: improvement
+#. This term is an app name.
+msgid "Gallery"
+msgstr "图库"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "GSM"
+msgstr "GSM"
+
+#. Name for the phone's home view.
+msgid "Home"
+msgstr "主页(noun), 住宅(noun)"
+
+#. Translate like "Home".
+msgid "Home screen"
+msgstr "主屏幕"
+
+msgid "HTTP"
+msgstr "HTTP"
+
+msgid "HTTPS"
+msgstr "HTTPS"
+
+msgid "Image"
+msgstr "图像"
+
+msgid "Inbox"
+msgstr "收件箱"
+
+#. This term is an adjective.
+msgid "Incandescent"
+msgstr "炽热的"
+
+#. This is the short form of "incoming mail server".
+msgid "Incoming server"
+msgstr "收件服务器"
+
+#. The correct format is "Internet".
+msgid "Internet"
+msgstr "互联网"
+
+msgid "Internet call"
+msgstr "互联网电话"
+
+#. The correct format is "kB".
+msgid "KB"
+msgstr "kB"
+
+#. This term is an app name.
+msgid "Lock Screen"
+msgstr "锁屏"
+
+msgid "Loudspeaker"
+msgstr "扬声器"
+
+#. The correct format is "email".
+msgid "Mail"
+msgstr "电子邮件"
+
+#. This term is an app name.
+msgid "Maps"
+msgstr "地图"
+
+#. This term is a verb.
+msgid "Mark"
+msgstr "标记"
+
+msgid "Mass storage"
+msgstr "大容量存储"
+
+msgid "MB"
+msgstr "MB"
+
+#. This term is an app name.
+msgid "Media"
+msgstr "媒体"
+
+#. This term is an app name.
+msgid "Messaging"
+msgstr "消息"
+
+msgid "Metadata"
+msgstr "元数据"
+
+msgid "MMS"
+msgstr "MMS"
+
+#. This term is a verb.
+msgid "Move"
+msgstr "移动"
+
+#. This term is a verb.
+msgid "Mute"
+msgstr "静音"
+
+#. This term is a noun.
+msgid "Nickname"
+msgstr "昵称 (noun),别名 (noun)"
+
+#. This term is a noun.
+msgid "Note"
+msgstr "备注"
+
+#. This term is an app name.
+msgid "Notes"
+msgstr "备注"
+
+msgid "Notification"
+msgstr "通知"
+
+#. This term is an adjective.
+msgid "Offline"
+msgstr "离线(adjective), 不在线(adjective),"
+
+msgid "OK"
+msgstr "确定"
+
+msgid "On hold"
+msgstr "保持"
+
+#. This term is a verb.
+msgid "Open"
+msgstr "打开"
+
+msgid "Original settings"
+msgstr "原始设置"
+
+#. This is the short form of "outgoing mail server".
+msgid "Outgoing server"
+msgstr "发件服务器"
+
+#. This term is a verb.
+msgid "Pair"
+msgstr "配对"
+
+msgid "Paired device"
+msgstr "已配对设备"
+
+#. One of the movement gestures used.
+msgid "Panning"
+msgstr "平移"
+
+msgid "Passcode"
+msgstr "密码"
+
+msgid "Passphrase"
+msgstr "密码"
+
+msgid "Password"
+msgstr "密码"
+
+#. This term can be a noun (people) or an app name (People).
+msgid "People"
+msgstr "联系人 (noun), 联系人 (app name)"
+
+#. This term can be a noun (phone) or an app name (Phone).
+msgid "Phone"
+msgstr "电话(noun), 电话(app name)"
+
+msgid "Phone number"
+msgstr "电话号码"
+
+msgid "Photo"
+msgstr "照片"
+
+msgid "PIN code"
+msgstr "PIN 码"
+
+#. This term is a verb.
+msgid "Play"
+msgstr "播放"
+
+msgid "Play queue"
+msgstr "播放队列"
+
+#. The correct format is "play queue".
+msgid "Playing queue"
+msgstr "播放队列"
+
+msgid "Playlist"
+msgstr "播放列表"
+
+msgid "Postal code"
+msgstr "邮编"
+
+msgid "Power saving mode"
+msgstr "省电模式"
+
+#. This term is a noun.
+msgid "Preview"
+msgstr "预览"
+
+#. This term is a noun.
+msgid "Profile"
+msgstr "配置文件(noun), 模式(noun)"
+
+#. This term is an adjective.
+msgid "Read"
+msgstr "已读"
+
+msgid "Recipient"
+msgstr "收件人"
+
+#. Translate like "decline".
+msgid "Reject"
+msgstr "拒接"
+
+msgid "Remove"
+msgstr "删除"
+
+#. This term is a verb.
+msgid "Repeat"
+msgstr "重复"
+
+#. This term is a verb.
+msgid "Reply"
+msgstr "回复"
+
+msgid "Ringtone"
+msgstr "铃声"
+
+msgid "Roaming"
+msgstr "漫游"
+
+msgid "Save"
+msgstr "保存"
+
+#. This term can be a noun or a verb.
+msgid "Search"
+msgstr "搜索(noun), 搜索(verb)"
+
+#. This term is a verb.
+msgid "Select"
+msgstr "选择"
+
+#. This term is a verb.
+msgid "Send"
+msgstr "发送"
+
+#. A pulley is a pull-and-release menu used on the Jolla UI screens.
+msgid "Pulley"
+msgstr "拖放"
+
+msgid "Settings"
+msgstr "设置(noun)，设置(app name)"
+
+#. This term is a verb.
+msgid "Share"
+msgstr "共享"
+
+#. This term is a verb.
+msgid "Show"
+msgstr "显示"
+
+#. This term is a verb.
+msgid "Silence"
+msgstr "无声"
+
+msgid "SIM card"
+msgstr "SIM 卡"
+
+msgid "SMS"
+msgstr "短信"
+
+msgid "Snooze"
+msgstr "推迟"
+
+msgid "Song"
+msgstr "歌曲"
+
+#. This term is a noun.
+msgid "Sound"
+msgstr "声音"
+
+#. Translate like "loudspeaker".
+msgid "Speaker"
+msgstr "扬声器"
+
+msgid "SSID"
+msgstr "SSID"
+
+#. This term is a verb.
+msgid "Start"
+msgstr "开始"
+
+msgid "Status"
+msgstr "状态"
+
+#. This term is a noun.
+msgid "Subject"
+msgstr "主题"
+
+#. This term can be a noun or a verb.
+msgid "Sync"
+msgstr "同步 (noun), 同步(verb)"
+
+#. This term is a verb.
+msgid "Tap"
+msgstr "点击"
+
+msgid "TB"
+msgstr "TB"
+
+#. This term is a noun.
+msgid "Transfer"
+msgstr "传输"
+
+#. This term is an app name.
+msgid "Tutorial"
+msgstr "教程"
+
+msgid "Unplug"
+msgstr "拔出"
+
+#. This term is an adjective.
+msgid "Unread"
+msgstr "未读"
+
+#. This term can be a noun or a verb.
+msgid "Update"
+msgstr "更新(noun), 更新(verb)"
+
+#. This term is a verb.
+msgid "Upload"
+msgstr "上传"
+
+msgid "USB"
+msgstr "USB"
+
+msgid "USB cable"
+msgstr "USB 电缆"
+
+msgid "Username"
+msgstr "用户名"
+
+#. This term is a noun.
+msgid "Video"
+msgstr "视频"
+
+#. This term is a verb.
+msgid "View"
+msgstr "查看"
+
+msgid "WAP"
+msgstr "WAP"
+
+msgid "Website"
+msgstr "网站"
+
+msgid "WEP"
+msgstr "WEP"
+
+msgid "White balance"
+msgstr "白平衡"
+
+msgid "WLAN"
+msgstr "WLAN"
+
+msgid "WPS"
+msgstr "WPS"
+
+msgid "YouTube"
+msgstr "YouTube"
+
+msgid "ZIP code"
+msgstr "邮编"
+
+msgid "PUK code"
+msgstr "PUK 代码"
+
+msgid "Unlock code"
+msgstr "解锁代码"
+
+msgid "Ambience"
+msgstr "氛围"
+
+#. clear away items
+msgid "Clear"
+msgstr "清除"
+
+msgid "3G"
+msgstr "3G"
+
+msgid "Accept"
+msgstr "接受"
+
+msgid "Account"
+msgstr "帐户"
+
+#. The correct format is "flight mode".
+msgid "Airplane mode"
+msgstr "飞行模式"
+
+#. This term is a noun.
+msgid "Alarm"
+msgstr "闹钟"
+
+msgid "Album"
+msgstr "专辑"
+
+#. The correct format is "ambience".
+msgid "Ambiance"
+msgstr "氛围"
+
+msgid "App"
+msgstr "应用程序"
+
+#. The correct format is "app".
+msgid "Application"
+msgstr "应用程序"
+
+msgid "Attachment"
+msgstr "附件"
+
+msgid "Authentication"
+msgstr "身份验证"
+
+msgid "Automatic"
+msgstr "自动"
+
+msgid "B"
+msgstr "B"
+
+#. This term is a verb.
+msgid "Back up"
+msgstr "备份"
+
+#. This term is a noun.
+msgid "Backup"
+msgstr "备份"
+
+msgid "Bluetooth"
+msgstr "蓝牙"
+
+#. This term can be a noun (browser) or app name (Browser).
+msgid "Browser"
+msgstr "浏览器 (名词), 浏览器 (应用程序名称)"
+
+#. This term can be a noun (calendar) or app name (Calendar).
+msgid "Calendar"
+msgstr "日历 (名词), 日历 (应用程序名称)"
+
+#. This term can be a noun or a verb.
+msgid "Call"
+msgstr "通话 (名词), 呼叫 (动词)"
+
+#. This term can be a noun (camera) or an app name (Camera).
+msgid "Camera"
+msgstr "相机 (noun), 相机 (app name)"
+
+msgid "Cancel"
+msgstr "取消"
+
+#. This term can be a noun or a verb.
+msgid "Chat"
+msgstr "聊天 (noun), 聊天(verb)"
+
+#. This term is an app name.
+msgid "Clock"
+msgstr "时钟"
+
+msgid "Connect"
+msgstr "连接"
+
+msgid "Connection"
+msgstr "连接"
+
+msgid "Continue"
+msgstr "继续"
+
+#. Application covers, small representations of open apps displayed on the Home.
+msgid "Cover"
+msgstr "封面"
+
+msgid "Decline"
+msgstr "拒接"
+
+#. This term is a noun.
+msgid "Default"
+msgstr "默认值"
+
+msgid "Delete"
+msgstr "删除"
+
+msgid "Device"
+msgstr "设备"
+
+msgid "Device nickname"
+msgstr "设备别名"
+
+msgid "Disconnect"
+msgstr "断开"
+
+msgid "DNS"
+msgstr "DNS"
+
+#. This term is an app name.
+msgid "Documents"
+msgstr "文档"
+
+#. This term can be a noun or a verb.
+msgid "Download"
+msgstr "下载 (noun), 下载 (verb)"
+
+#. This term is a verb.
+msgid "Edit"
+msgstr "编辑"
+
+#. This term can be a noun (email) or an app name (Email).
+msgid "Email"
+msgstr "电子邮件(noun), 电子邮件((app name)"
+
+msgid "Email address"
+msgstr "电子邮件地址"
+
+#. This term is a verb.
+msgid "Enter"
+msgstr "输入"
+
+msgid "Event"
+msgstr "事件"
+
+msgid "Facebook"
+msgstr "Facebook"
+
+#. This term is a noun.
+msgid "Favourite"
+msgstr "收藏夹"
+
+msgid "Feedback"
+msgstr "反馈"
+
+#. This term is an app name.
+msgid "Feeds"
+msgstr "源"
+
+#. This term is a noun.
+msgid "File"
+msgstr "文件"
+
+#. The correct format is "filename".
+msgid "File name"
+msgstr "文件名"
+
+msgid "Filename"
+msgstr "文件名"
+
+msgid "Flight mode"
+msgstr "飞行模式"
+
+msgid "Fluorescent"
+msgstr "荧光灯"
+
+msgid "Folder"
+msgstr "文件夹"
+
+msgid "Forget"
+msgstr "忘记"
+
+#. This term is a verb.
+msgid "Forward"
+msgstr "转发"
+
+msgid "FTP"
+msgstr "FTP"
+
+msgid "Full screen"
+msgstr "全屏"
+
+# category: improvement
+#. This term is an app name.
+msgid "Gallery"
+msgstr "图库"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "GSM"
+msgstr "GSM"
+
+#. Name for the phone's home view.
+msgid "Home"
+msgstr "主页(noun), 住宅(noun)"
+
+#. Translate like "Home".
+msgid "Home screen"
+msgstr "主屏幕"
+
+msgid "HTTP"
+msgstr "HTTP"
+
+msgid "HTTPS"
+msgstr "HTTPS"
+
+msgid "Image"
+msgstr "图像"
+
+msgid "Inbox"
+msgstr "收件箱"
+
+#. This term is an adjective.
+msgid "Incandescent"
+msgstr "炽热的"
+
+#. This is the short form of "incoming mail server".
+msgid "Incoming server"
+msgstr "收件服务器"
+
+#. The correct format is "Internet".
+msgid "Internet"
+msgstr "互联网"
+
+msgid "Internet call"
+msgstr "互联网电话"
+
+#. The correct format is "kB".
+msgid "KB"
+msgstr "kB"
+
+#. This term is an app name.
+msgid "Lock Screen"
+msgstr "锁屏"
+
+msgid "Loudspeaker"
+msgstr "扬声器"
+
+#. The correct format is "email".
+msgid "Mail"
+msgstr "电子邮件"
+
+#. This term is an app name.
+msgid "Maps"
+msgstr "地图"
+
+#. This term is a verb.
+msgid "Mark"
+msgstr "标记"
+
+msgid "Mass storage"
+msgstr "大容量存储"
+
+msgid "MB"
+msgstr "MB"
+
+#. This term is an app name.
+msgid "Media"
+msgstr "媒体"
+
+#. This term is an app name.
+msgid "Messaging"
+msgstr "消息"
+
+msgid "Metadata"
+msgstr "元数据"
+
+msgid "MMS"
+msgstr "MMS"
+
+#. This term is a verb.
+msgid "Move"
+msgstr "移动"
+
+#. This term is a verb.
+msgid "Mute"
+msgstr "静音"
+
+#. This term is a noun.
+msgid "Nickname"
+msgstr "昵称 (noun),别名 (noun)"
+
+#. This term is a noun.
+msgid "Note"
+msgstr "备注"
+
+#. This term is an app name.
+msgid "Notes"
+msgstr "备注"
+
+msgid "Notification"
+msgstr "通知"
+
+#. This term is an adjective.
+msgid "Offline"
+msgstr "离线(adjective), 不在线(adjective),"
+
+msgid "OK"
+msgstr "确定"
+
+msgid "On hold"
+msgstr "保持"
+
+#. This term is a verb.
+msgid "Open"
+msgstr "打开"
+
+msgid "Original settings"
+msgstr "原始设置"
+
+#. This is the short form of "outgoing mail server".
+msgid "Outgoing server"
+msgstr "发件服务器"
+
+#. This term is a verb.
+msgid "Pair"
+msgstr "配对"
+
+msgid "Paired device"
+msgstr "已配对设备"
+
+#. One of the movement gestures used.
+msgid "Panning"
+msgstr "平移"
+
+msgid "Passcode"
+msgstr "密码"
+
+msgid "Passphrase"
+msgstr "密码"
+
+msgid "Password"
+msgstr "密码"
+
+#. This term can be a noun (people) or an app name (People).
+msgid "People"
+msgstr "联系人 (noun), 联系人 (app name)"
+
+#. This term can be a noun (phone) or an app name (Phone).
+msgid "Phone"
+msgstr "电话(noun), 电话(app name)"
+
+msgid "Phone number"
+msgstr "电话号码"
+
+msgid "Photo"
+msgstr "照片"
+
+msgid "PIN code"
+msgstr "PIN 码"
+
+#. This term is a verb.
+msgid "Play"
+msgstr "播放"
+
+msgid "Play queue"
+msgstr "播放队列"
+
+#. The correct format is "play queue".
+msgid "Playing queue"
+msgstr "播放队列"
+
+msgid "Playlist"
+msgstr "播放列表"
+
+msgid "Postal code"
+msgstr "邮编"
+
+msgid "Power saving mode"
+msgstr "省电模式"
+
+#. This term is a noun.
+msgid "Preview"
+msgstr "预览"
+
+#. This term is a noun.
+msgid "Profile"
+msgstr "配置文件(noun), 模式(noun)"
+
+#. This term is an adjective.
+msgid "Read"
+msgstr "已读"
+
+msgid "Recipient"
+msgstr "收件人"
+
+#. Translate like "decline".
+msgid "Reject"
+msgstr "拒接"
+
+msgid "Remove"
+msgstr "删除"
+
+#. This term is a verb.
+msgid "Repeat"
+msgstr "重复"
+
+#. This term is a verb.
+msgid "Reply"
+msgstr "回复"
+
+msgid "Ringtone"
+msgstr "铃声"
+
+msgid "Roaming"
+msgstr "漫游"
+
+msgid "Save"
+msgstr "保存"
+
+#. This term can be a noun or a verb.
+msgid "Search"
+msgstr "搜索(noun), 搜索(verb)"
+
+#. This term is a verb.
+msgid "Select"
+msgstr "选择"
+
+#. This term is a verb.
+msgid "Send"
+msgstr "发送"
+
+#. A pulley is a pull-and-release menu used on the Jolla UI screens.
+msgid "Pulley"
+msgstr "拖放"
+
+#. This term can be a noun (settings) or an app name (Settings).
+msgid "Settings"
+msgstr "设置(noun)，设置(app name)"
+
+#. This term is a verb.
+msgid "Share"
+msgstr "共享"
+
+#. This term is a verb.
+msgid "Show"
+msgstr "显示"
+
+#. This term is a verb.
+msgid "Silence"
+msgstr "无声"
+
+msgid "SIM card"
+msgstr "SIM 卡"
+
+msgid "SMS"
+msgstr "短信"
+
+msgid "Snooze"
+msgstr "推迟"
+
+msgid "Song"
+msgstr "歌曲"
+
+#. This term is a noun.
+msgid "Sound"
+msgstr "声音"
+
+#. Translate like "loudspeaker".
+msgid "Speaker"
+msgstr "扬声器"
+
+msgid "SSID"
+msgstr "SSID"
+
+#. This term is a verb.
+msgid "Start"
+msgstr "开始"
+
+msgid "Status"
+msgstr "状态"
+
+#. This term is a noun.
+msgid "Subject"
+msgstr "主题"
+
+#. This term can be a noun or a verb.
+msgid "Sync"
+msgstr "同步 (noun), 同步(verb)"
+
+#. This term is a verb.
+msgid "Tap"
+msgstr "点击"
+
+msgid "TB"
+msgstr "TB"
+
+#. This term is a noun.
+msgid "Transfer"
+msgstr "传输"
+
+#. This term is an app name.
+msgid "Tutorial"
+msgstr "教程"
+
+msgid "Unplug"
+msgstr "拔出"
+
+#. This term is an adjective.
+msgid "Unread"
+msgstr "未读"
+
+#. This term can be a noun or a verb.
+msgid "Update"
+msgstr "更新(noun), 更新(verb)"
+
+#. This term is a verb.
+msgid "Upload"
+msgstr "上传"
+
+msgid "USB"
+msgstr "USB"
+
+msgid "USB cable"
+msgstr "USB 电缆"
+
+msgid "Username"
+msgstr "用户名"
+
+#. This term is a noun.
+msgid "Video"
+msgstr "视频"
+
+#. This term is a verb.
+msgid "View"
+msgstr "查看"
+
+msgid "WAP"
+msgstr "WAP"
+
+msgid "Website"
+msgstr "网站"
+
+msgid "WEP"
+msgstr "WEP"
+
+msgid "White balance"
+msgstr "白平衡"
+
+msgid "WLAN"
+msgstr "WLAN"
+
+msgid "WPS"
+msgstr "WPS"
+
+msgid "YouTube"
+msgstr "YouTube"
+
+msgid "ZIP code"
+msgstr "邮编"
+
+msgid "PUK code"
+msgstr "PUK 代码"
+
+msgid "Unlock code"
+msgstr "解锁代码"
+
+msgid "Ambience"
+msgstr "氛围"
+
+#. clear away items
+msgid "Clear"
+msgstr "清除"
+
+msgid "3G"
+msgstr "3G"
+
+msgid "Accept"
+msgstr "接受"
+
+msgid "Account"
+msgstr "帐户"
+
+#. The correct format is "flight mode".
+msgid "Airplane mode"
+msgstr "飞行模式"
+
+#. This term is a noun.
+msgid "Alarm"
+msgstr "闹钟"
+
+msgid "Album"
+msgstr "专辑"
+
+#. The correct format is "ambience".
+msgid "Ambiance"
+msgstr "氛围"
+
+msgid "App"
+msgstr "应用程序"
+
+#. The correct format is "app".
+msgid "Application"
+msgstr "应用程序"
+
+msgid "Attachment"
+msgstr "附件"
+
+msgid "Authentication"
+msgstr "身份验证"
+
+msgid "Automatic"
+msgstr "自动"
+
+msgid "B"
+msgstr "B"
+
+#. This term is a verb.
+msgid "Back up"
+msgstr "备份"
+
+#. This term is a noun.
+msgid "Backup"
+msgstr "备份"
+
+msgid "Bluetooth"
+msgstr "蓝牙"
+
+#. This term can be a noun (browser) or app name (Browser).
+msgid "Browser"
+msgstr "浏览器 (名词), 浏览器 (应用程序名称)"
+
+#. This term can be a noun (calendar) or app name (Calendar).
+msgid "Calendar"
+msgstr "日历 (名词), 日历 (应用程序名称)"
+
+#. This term can be a noun or a verb.
+msgid "Call"
+msgstr "通话 (名词), 呼叫 (动词)"
+
+#. This term can be a noun (camera) or an app name (Camera).
+msgid "Camera"
+msgstr "相机 (noun), 相机 (app name)"
+
+msgid "Cancel"
+msgstr "取消"
+
+#. This term can be a noun or a verb.
+msgid "Chat"
+msgstr "聊天 (noun), 聊天(verb)"
+
+#. This term is an app name.
+msgid "Clock"
+msgstr "时钟"
+
+msgid "Connect"
+msgstr "连接"
+
+msgid "Connection"
+msgstr "连接"
+
+msgid "Continue"
+msgstr "继续"
+
+#. Application covers, small representations of open apps displayed on the Home.
+msgid "Cover"
+msgstr "封面"
+
+msgid "Decline"
+msgstr "拒接"
+
+#. This term is a noun.
+msgid "Default"
+msgstr "默认值"
+
+msgid "Delete"
+msgstr "删除"
+
+msgid "Device"
+msgstr "设备"
+
+msgid "Device nickname"
+msgstr "设备别名"
+
+msgid "Disconnect"
+msgstr "断开"
+
+msgid "DNS"
+msgstr "DNS"
+
+#. This term is an app name.
+msgid "Documents"
+msgstr "文档"
+
+#. This term can be a noun or a verb.
+msgid "Download"
+msgstr "下载 (noun), 下载 (verb)"
+
+#. This term is a verb.
+msgid "Edit"
+msgstr "编辑"
+
+#. This term can be a noun (email) or an app name (Email).
+msgid "Email"
+msgstr "电子邮件(noun), 电子邮件((app name)"
+
+msgid "Email address"
+msgstr "电子邮件地址"
+
+#. This term is a verb.
+msgid "Enter"
+msgstr "输入"
+
+msgid "Event"
+msgstr "事件"
+
+msgid "Facebook"
+msgstr "Facebook"
+
+#. This term is a noun.
+msgid "Favourite"
+msgstr "收藏夹"
+
+msgid "Feedback"
+msgstr "反馈"
+
+#. This term is an app name.
+msgid "Feeds"
+msgstr "源"
+
+#. This term is a noun.
+msgid "File"
+msgstr "文件"
+
+#. The correct format is "filename".
+msgid "File name"
+msgstr "文件名"
+
+msgid "Filename"
+msgstr "文件名"
+
+msgid "Flight mode"
+msgstr "飞行模式"
+
+msgid "Fluorescent"
+msgstr "荧光灯"
+
+msgid "Folder"
+msgstr "文件夹"
+
+msgid "Forget"
+msgstr "忘记"
+
+#. This term is a verb.
+msgid "Forward"
+msgstr "转发"
+
+msgid "FTP"
+msgstr "FTP"
+
+msgid "Full screen"
+msgstr "全屏"
+
+# category: improvement
+#. This term is an app name.
+msgid "Gallery"
+msgstr "图库"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "GSM"
+msgstr "GSM"
+
+#. Name for the phone's home view.
+msgid "Home"
+msgstr "主页(noun), 住宅(noun)"
+
+#. Translate like "Home".
+msgid "Home screen"
+msgstr "主屏幕"
+
+msgid "HTTP"
+msgstr "HTTP"
+
+msgid "HTTPS"
+msgstr "HTTPS"
+
+msgid "Image"
+msgstr "图像"
+
+msgid "Inbox"
+msgstr "收件箱"
+
+#. This term is an adjective.
+msgid "Incandescent"
+msgstr "炽热的"
+
+#. This is the short form of "incoming mail server".
+msgid "Incoming server"
+msgstr "收件服务器"
+
+#. The correct format is "Internet".
+msgid "Internet"
+msgstr "互联网"
+
+msgid "Internet call"
+msgstr "互联网电话"
+
+#. The correct format is "kB".
+msgid "KB"
+msgstr "kB"
+
+#. This term is an app name.
+msgid "Lock Screen"
+msgstr "锁屏"
+
+msgid "Loudspeaker"
+msgstr "扬声器"
+
+#. The correct format is "email".
+msgid "Mail"
+msgstr "电子邮件"
+
+#. This term is an app name.
+msgid "Maps"
+msgstr "地图"
+
+#. This term is a verb.
+msgid "Mark"
+msgstr "标记"
+
+msgid "Mass storage"
+msgstr "大容量存储"
+
+msgid "MB"
+msgstr "MB"
+
+#. This term is an app name.
+msgid "Media"
+msgstr "媒体"
+
+#. This term is an app name.
+msgid "Messaging"
+msgstr "消息"
+
+msgid "Metadata"
+msgstr "元数据"
+
+msgid "MMS"
+msgstr "MMS"
+
+#. This term is a verb.
+msgid "Move"
+msgstr "移动"
+
+#. This term is a verb.
+msgid "Mute"
+msgstr "静音"
+
+#. This term is a noun.
+msgid "Nickname"
+msgstr "昵称 (noun),别名 (noun)"
+
+#. This term is a noun.
+msgid "Note"
+msgstr "备注"
+
+#. This term is an app name.
+msgid "Notes"
+msgstr "备注"
+
+msgid "Notification"
+msgstr "通知"
+
+#. This term is an adjective.
+msgid "Offline"
+msgstr "离线(adjective), 不在线(adjective),"
+
+msgid "OK"
+msgstr "确定"
+
+msgid "On hold"
+msgstr "保持"
+
+#. This term is a verb.
+msgid "Open"
+msgstr "打开"
+
+msgid "Original settings"
+msgstr "原始设置"
+
+#. This is the short form of "outgoing mail server".
+msgid "Outgoing server"
+msgstr "发件服务器"
+
+#. This term is a verb.
+msgid "Pair"
+msgstr "配对"
+
+msgid "Paired device"
+msgstr "已配对设备"
+
+#. One of the movement gestures used.
+msgid "Panning"
+msgstr "平移"
+
+msgid "Passcode"
+msgstr "密码"
+
+msgid "Passphrase"
+msgstr "密码"
+
+msgid "Password"
+msgstr "密码"
+
+#. This term can be a noun (people) or an app name (People).
+msgid "People"
+msgstr "联系人 (noun), 联系人 (app name)"
+
+#. This term can be a noun (phone) or an app name (Phone).
+msgid "Phone"
+msgstr "电话(noun), 电话(app name)"
+
+msgid "Phone number"
+msgstr "电话号码"
+
+msgid "Photo"
+msgstr "照片"
+
+msgid "PIN code"
+msgstr "PIN 码"
+
+#. This term is a verb.
+msgid "Play"
+msgstr "播放"
+
+msgid "Play queue"
+msgstr "播放队列"
+
+#. The correct format is "play queue".
+msgid "Playing queue"
+msgstr "播放队列"
+
+msgid "Playlist"
+msgstr "播放列表"
+
+msgid "Postal code"
+msgstr "邮编"
+
+msgid "Power saving mode"
+msgstr "省电模式"
+
+#. This term is a noun.
+msgid "Preview"
+msgstr "预览"
+
+#. This term is a noun.
+msgid "Profile"
+msgstr "配置文件(noun), 模式(noun)"
+
+#. This term is an adjective.
+msgid "Read"
+msgstr "已读"
+
+msgid "Recipient"
+msgstr "收件人"
+
+#. Translate like "decline".
+msgid "Reject"
+msgstr "拒接"
+
+msgid "Remove"
+msgstr "删除"
+
+#. This term is a verb.
+msgid "Repeat"
+msgstr "重复"
+
+#. This term is a verb.
+msgid "Reply"
+msgstr "回复"
+
+msgid "Ringtone"
+msgstr "铃声"
+
+msgid "Roaming"
+msgstr "漫游"
+
+msgid "Save"
+msgstr "保存"
+
+#. This term can be a noun or a verb.
+msgid "Search"
+msgstr "搜索(noun), 搜索(verb)"
+
+#. This term is a verb.
+msgid "Select"
+msgstr "选择"
+
+#. This term is a verb.
+msgid "Send"
+msgstr "发送"
+
+#. A pulley is a pull-and-release menu used on the Jolla UI screens.
+msgid "Pulley"
+msgstr "拖放"
+
+#. This term can be a noun (settings) or an app name (Settings).
+msgid "Settings"
+msgstr "设置(noun)，设置(app name)"
+
+#. This term is a verb.
+msgid "Share"
+msgstr "共享"
+
+#. This term is a verb.
+msgid "Show"
+msgstr "显示"
+
+#. This term is a verb.
+msgid "Silence"
+msgstr "无声"
+
+msgid "SIM card"
+msgstr "SIM 卡"
+
+msgid "SMS"
+msgstr "短信"
+
+msgid "Snooze"
+msgstr "推迟"
+
+msgid "Song"
+msgstr "歌曲"
+
+#. This term is a noun.
+msgid "Sound"
+msgstr "声音"
+
+#. Translate like "loudspeaker".
+msgid "Speaker"
+msgstr "扬声器"
+
+msgid "SSID"
+msgstr "SSID"
+
+#. This term is a verb.
+msgid "Start"
+msgstr "开始"
+
+msgid "Status"
+msgstr "状态"
+
+#. This term is a noun.
+msgid "Subject"
+msgstr "主题"
+
+#. This term can be a noun or a verb.
+msgid "Sync"
+msgstr "同步 (noun), 同步(verb)"
+
+#. This term is a verb.
+msgid "Tap"
+msgstr "点击"
+
+msgid "TB"
+msgstr "TB"
+
+#. This term is a noun.
+msgid "Transfer"
+msgstr "传输"
+
+#. This term is an app name.
+msgid "Tutorial"
+msgstr "教程"
+
+msgid "Unplug"
+msgstr "拔出"
+
+#. This term is an adjective.
+msgid "Unread"
+msgstr "未读"
+
+#. This term can be a noun or a verb.
+msgid "Update"
+msgstr "更新(noun), 更新(verb)"
+
+#. This term is a verb.
+msgid "Upload"
+msgstr "上传"
+
+msgid "USB"
+msgstr "USB"
+
+msgid "USB cable"
+msgstr "USB 电缆"
+
+msgid "Username"
+msgstr "用户名"
+
+#. This term is a noun.
+msgid "Video"
+msgstr "视频"
+
+#. This term is a verb.
+msgid "View"
+msgstr "查看"
+
+msgid "WAP"
+msgstr "WAP"
+
+msgid "Website"
+msgstr "网站"
+
+msgid "WEP"
+msgstr "WEP"
+
+msgid "White balance"
+msgstr "白平衡"
+
+msgid "WLAN"
+msgstr "WLAN"
+
+msgid "WPS"
+msgstr "WPS"
+
+msgid "YouTube"
+msgstr "YouTube"
+
+msgid "ZIP code"
+msgstr "邮编"
+
+msgid "PUK code"
+msgstr "PUK 代码"
+
+msgid "Unlock code"
+msgstr "解锁代码"
+
+#. This term is an app name.
+msgid "Jolla Store"
+msgstr "商店"
+
+msgid "Calculator"
+msgstr "计算器"
+
+#. This term is a gesture name. 
+msgid "Pull"
+msgstr "拉"
+
+#. This term is a gesture name. 
+msgid "Push"
+msgstr "推送"
+
+# Response to: "<划 or 划动 or 划屏， this may sound literally more formal than previous translation 轻拂 (gentle-scratching/flicking)>":  <We have accepted user's suggestion and updated it into 划屏. However we have to reject it at first because if the suggestion is accepted, all contents including comments will enter the translation field.>
+#. This term is a gesture name. 
+msgid "Flick"
+msgstr "划屏"
+
+#. Security code is Device lock code set in Settings System settings
+msgid "Security code"
+msgstr "保密码"
+
+msgid "Timer"
+msgstr "计时器"
+
+msgid "Stopwatch"
+msgstr "秒表"
+
+#. Service name, items under the service.
+msgid "Voicemail"
+msgstr "语音信箱"
+
+msgid "Fixed dialing"
+msgstr "固定号码拨号"
+
+msgid "Sailfish OS"
+msgstr "Sailfish OS"
+
+msgid "Jolla Terms of Service"
+msgstr "Jolla 服务条款"
+
+msgid "Jolla Privacy Policy"
+msgstr "Jolla 隐私政策"
+
+# The launcher is translated to '启动程序' in simplified Chinese (in the browser and the new tutorial), which literally means 'launcher the application'. '启动器' (launcher), '程序启动器' (application launcher) or '程序列表' (application list) would be more suitable.
+#. Application launcher, application grid. 
+msgid "Launcher"
+msgstr "启动器"
+
+msgid "Peek"
+msgstr "偷瞄"
+
+msgid "System settings"
+msgstr "系统设置"
+
+msgid "Tethering"
+msgstr "网络共享"
+
+# In response to: “相机拍摄区Improvement: The old translation literally translated the word 'roll' to the analog camera film. This is really weird for the user, as we are talking about the digital camera's capture session.”: We accept the suggested translation.
+msgid "Camera roll"
+msgstr "已拍摄照片"
+
+msgid "Swipe"
+msgstr "轻扫"
+
+#. This is an app name, similar to a normal launcher but shown on non-Sailfish devices.
+msgid "Jolla Launcher"
+msgstr "Jolla 启动器"
+
+#. IM, Instant Messaging
+msgid "IM"
+msgstr "IM"
+
+msgid "Reboot"
+msgstr "重启"
+
+msgid "Restart"
+msgstr "重启"
+
+msgid "Top menu"
+msgstr "顶部菜单"
+
+msgid "Action"
+msgstr "操作"
+
+msgid "Orientation"
+msgstr "屏幕显示方向"
+
+msgid "Tweet"
+msgstr "推文"
+
+#. as in ringtone, email tone
+msgid "Tone"
+msgstr "音调"
+
+#. used in Settings for Location services
+msgid "Location"
+msgstr "位置"
+
+#. Refers to the whole app, also called Phonebook in some other OS's
+msgid "Contacts"
+msgstr "联系人"
+
+#. verb for importing e.g. files, contacts
+msgid "Import"
+msgstr "导入"
+
+msgid "Avatar"
+msgstr "头像"
+
+#. There are certain kinds of plugins that can store data. It can either be an encrypted storage plugin (mostly intended to use with secure hardware), or a storage plugin paired with an encryption plugin.
+msgid "Secret storage"
+msgstr "加密存储"
+
+#. Each collection can store a number of secrets. Each secret has some metadata ( eg. name) and contents (eg. a key).
+msgid "Secrets data"
+msgstr "加密数据"
+
+#. Each storage can store a number of collections.
+msgid "Collection (secrets collection)"
+msgstr ""
+
+msgid "Collection (secrets collection)"
+msgstr "收集（加密收集）"
+
+msgid "login"
+msgstr "登录"
+
+msgid "log in"
+msgstr "登录"
+
+msgid "credentials"
+msgstr ""
+
+msgid "credentials"
+msgstr ""
+
+msgid "authenticate"
+msgstr ""
+
+msgid "credentials"
+msgstr ""
+
+msgid "authenticate"
+msgstr ""
+
+msgid "compositor"
+msgstr ""
+
+msgid "credentials"
+msgstr "凭证"
+
+msgid "authenticate"
+msgstr "认证"
+
+msgid "compositor"
+msgstr "编排器"
+
+msgid "idle"
+msgstr "空闲"

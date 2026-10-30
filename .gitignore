@@ -13,7 +13,6 @@ rpmbuild/
 release_rpms/
 
 usr/share/translations/
-translations/
 templates/
 qmfiles/
 
